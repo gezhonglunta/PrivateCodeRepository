@@ -1,0 +1,566 @@
+####http://www.kk369.info/?fromuid=56059##219.234.130.38:80####
+HTTP Error 504: Gateway Time-out
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##219.234.130.38:80####
+HTTP Error 504: Gateway Time-out
+####END####
+####http://www.kk369.info/?fromuid=56059##219.234.130.39:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##219.234.130.39:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##220.113.5.198:8080####
+<urlopen error [Errno 11004] getaddrinfo failed>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##220.113.5.198:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##221.176.14.72:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##221.176.14.72:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##223.202.8.69:3128####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##223.202.8.69:3128####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##59.108.53.1:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##59.108.53.1:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##115.181.37.42:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##115.181.37.42:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##118.85.207.23:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##118.85.207.23:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##119.254.90.18:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##119.254.90.18:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##122.113.28.52:3128####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##122.113.28.52:3128####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##124.205.178.62:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##124.205.178.62:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##180.186.36.71:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##180.186.36.71:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##202.108.50.72:80####
+HTTP Error 404: Not Found
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##202.108.50.72:80####
+HTTP Error 404: Not Found
+####END####
+####http://www.kk369.info/?fromuid=56059##211.100.49.9:3128####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.100.49.9:3128####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##211.100.61.202:3128####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.100.61.202:3128####
+HTTP Error 503: Service Unavailable
+####END####
+####http://www.kk369.info/?fromuid=56059##211.100.61.204:3128####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.100.61.204:3128####
+HTTP Error 503: Service Unavailable
+####END####
+####http://www.kk369.info/?fromuid=56059##211.167.112.14:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.167.112.14:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##211.167.112.14:82####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.167.112.14:82####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##211.167.112.15:80####
+''
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.167.112.15:80####
+''
+####END####
+####http://www.kk369.info/?fromuid=56059##211.167.112.15:82####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.167.112.15:82####
+''
+####END####
+####http://www.kk369.info/?fromuid=56059##210.13.71.76:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##210.13.71.76:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##210.13.71.77:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##210.13.71.77:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##211.154.83.35:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.154.83.35:80####
+''
+####END####
+####http://www.kk369.info/?fromuid=56059##61.152.106.203:8080####
+timed out
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##61.152.106.203:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##101.44.1.22:80####
+HTTP Error 502: Bad Gateway
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##101.44.1.22:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##101.44.1.23:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##101.44.1.23:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##101.44.1.26:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##101.44.1.26:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##114.80.240.6:808####
+<urlopen error [Errno 10061] 由于目标计算机积极拒绝，无法连接。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##114.80.240.6:808####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##210.14.70.21:81####
+''
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##210.14.70.21:81####
+''
+####END####
+####http://www.kk369.info/?fromuid=56059##211.154.83.35:82####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.154.83.35:82####
+''
+####END####
+####http://www.kk369.info/?fromuid=56059##211.154.83.37:80####
+''
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.154.83.37:80####
+''
+####END####
+####http://www.kk369.info/?fromuid=56059##211.154.83.37:82####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.154.83.37:82####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##211.154.83.78:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.154.83.78:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##116.236.205.100:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##116.236.205.100:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##58.248.217.195:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##58.248.217.195:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##58.248.217.209:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##58.248.217.209:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##58.248.217.215:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##58.248.217.215:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##58.248.217.216:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##58.248.217.216:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##211.162.73.122:80####
+<urlopen error [Errno 10061] 由于目标计算机积极拒绝，无法连接。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.162.73.122:80####
+<urlopen error [Errno 10061] 由于目标计算机积极拒绝，无法连接。>
+####END####
+####http://www.kk369.info/?fromuid=56059##211.162.121.182:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.162.121.182:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##218.15.164.131:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##218.15.164.131:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##58.248.217.217:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##58.248.217.217:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##211.162.73.119:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##211.162.73.119:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##61.234.169.138:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##61.234.169.138:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##119.145.166.238:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##119.145.166.238:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##119.233.255.60:80####
+HTTP Error 404: Not Found
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##119.233.255.60:80####
+HTTP Error 404: Not Found
+####END####
+####http://www.kk369.info/?fromuid=56059##121.11.149.250:8081####
+HTTP Error 407: Unauthorized
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##121.11.149.250:8081####
+HTTP Error 407: Unauthorized
+####END####
+####http://www.kk369.info/?fromuid=56059##121.33.243.58:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##121.33.243.58:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##121.33.249.170:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##121.33.249.170:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##202.105.131.41:3128####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##202.105.131.41:3128####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##203.88.210.206:3128####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##203.88.210.206:3128####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##202.105.233.40:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##202.105.233.40:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##218.16.145.109:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##218.16.145.109:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##109.123.126.253:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##109.123.126.253:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##189.201.243.194:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##189.201.243.194:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##202.171.253.98:80####
+HTTP Error 404: Not Found
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##202.171.253.98:80####
+HTTP Error 404: Not Found
+####END####
+####http://www.kk369.info/?fromuid=56059##203.66.188.252:80####
+HTTP Error 404: Not Found
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##203.66.188.252:80####
+HTTP Error 404: Not Found
+####END####
+####http://www.kk369.info/?fromuid=56059##216.244.86.163:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##216.244.86.163:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##41.33.159.3:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##41.33.159.3:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##46.21.74.242:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##46.21.74.242:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##61.30.127.2:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##61.30.127.2:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##61.94.204.242:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##61.94.204.242:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##69.42.127.69:3080####
+HTTP Error 407: Proxy Authentication Required
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##69.42.127.69:3080####
+HTTP Error 407: Proxy Authentication Required
+####END####
+####http://www.kk369.info/?fromuid=56059##69.42.127.69:9000####
+HTTP Error 407: Proxy Authentication Required
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##69.42.127.69:9000####
+HTTP Error 407: Proxy Authentication Required
+####END####
+####http://www.kk369.info/?fromuid=56059##78.46.186.201:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##78.46.186.201:8080####
+''
+####END####
+####http://www.kk369.info/?fromuid=56059##78.46.186.204:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##78.46.186.204:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##79.120.177.37:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##79.120.177.37:8080####
+HTTP Error 504: Gateway Timeout
+####END####
+####http://www.kk369.info/?fromuid=56059##80.58.29.174:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##80.58.29.174:80####
+HTTP Error 502: Bad Gateway
+####END####
+####http://www.kk369.info/?fromuid=56059##91.144.44.65:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##91.144.44.65:8080####
+HTTP Error 504: Gateway Time-out
+####END####
+####http://www.kk369.info/?fromuid=56059##94.155.51.112:8080####
+<urlopen error [Errno 10061] 由于目标计算机积极拒绝，无法连接。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##94.155.51.112:8080####
+<urlopen error [Errno 10061] 由于目标计算机积极拒绝，无法连接。>
+####END####
+####http://www.kk369.info/?fromuid=56059##95.159.31.7:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##95.159.31.7:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##95.159.31.16:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##95.159.31.16:80####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##103.3.221.153:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##103.3.221.153:8080####
+[Errno 10054] 远程主机强迫关闭了一个现有的连接。
+####END####
+####http://www.kk369.info/?fromuid=56059##103.10.121.195:8000####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##103.10.121.195:8000####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##109.74.55.50:8080####
+<urlopen error [Errno 10061] 由于目标计算机积极拒绝，无法连接。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##109.74.55.50:8080####
+<urlopen error [Errno 10061] 由于目标计算机积极拒绝，无法连接。>
+####END####
+####http://www.kk369.info/?fromuid=56059##110.138.25.171:808####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##110.138.25.171:808####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##112.217.228.212:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##112.217.228.212:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##118.97.22.205:8080####
+<urlopen error [Errno 10061] 由于目标计算机积极拒绝，无法连接。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##118.97.22.205:8080####
+<urlopen error [Errno 10061] 由于目标计算机积极拒绝，无法连接。>
+####END####
+####http://www.kk369.info/?fromuid=56059##118.97.75.226:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##118.97.75.226:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##118.97.103.82:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##118.97.103.82:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##118.98.35.251:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##118.98.35.251:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##118.98.75.50:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##118.98.75.50:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##120.50.4.18:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##120.50.4.18:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##124.195.6.243:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##124.195.6.243:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##124.195.124.202:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##124.195.124.202:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##130.94.148.99:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##130.94.148.99:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##164.77.196.78:80####
+''
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##164.77.196.78:80####
+[Errno 10054] 远程主机强迫关闭了一个现有的连接。
+####END####
+####http://www.kk369.info/?fromuid=56059##168.234.75.235:7777####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##168.234.75.235:7777####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##168.234.217.115:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##168.234.217.115:8080####
+<urlopen error [Errno 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>
+####END####
+####http://www.kk369.info/?fromuid=56059##173.213.108.111:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##173.213.108.111:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##173.213.108.112:8080####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##173.213.108.112:8080####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##177.55.254.9:8080####
+<urlopen error [Errno 10061] 由于目标计算机积极拒绝，无法连接。>
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##177.55.254.9:8080####
+<urlopen error [Errno 10061] 由于目标计算机积极拒绝，无法连接。>
+####END####
+####http://www.kk369.info/?fromuid=56059##177.69.31.147:80####
+200
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##177.69.31.147:80####
+200
+####END####
+####http://www.kk369.info/?fromuid=56059##180.249.36.54:8080####
+HTTP Error 504: Gateway Timeout
+####END####
+####http://www.zhenyouge.com/?fromuid=121120##180.249.36.54:8080####
+HTTP Error 504: Gateway Timeout
+####END####
+####http://www.kk369.info/?fromuid=56059##184.168.135.67:808####
+####END####
