@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+            xmlns:context="http://www.springframework.org/schema/context"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.1.xsd
+	        http://www.springframework.org/schema/jdbc http://www.springframework.org/schema/jdbc/spring-jdbc-3.1.xsd 
+	        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.1.xsd">
+
+	<context:component-scan base-package="com.leftright.tiny.website" />
+	<!-- 以静态变量保存ApplicationContext -->
+	<bean class="com.leftright.tiny.website.SpringContextHolder" lazy-init="false" />
+	<bean id="accessDB" class="org.apache.commons.dbcp.BasicDataSource">
+		<property name="driverClassName" value="sun.jdbc.odbc.JdbcOdbcDriver"></property>
+		<property name="url" value="jdbc:odbc:driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=db.accdb"></property>
+		<property name="username" value="admin"></property>
+		<property name="password" value=""></property>
+	</bean>
+	<!-- 在xml里面&要转义成&amp; -->
+	<bean id="mysqlDB" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
+		<property name="driverClassName" value="${jdbc.driver}" />
+		<property name="url" value="${jdbc.url}" />
+		<property name="username" value="${jdbc.username}" />
+		<property name="password" value="${jdbc.password}" />
+		<!-- 连接池设置 -->
+		<property name="maxActive" value="5" />
+		<property name="maxIdle" value="40" />
+		<property name="defaultAutoCommit" value="false" />
+		<!-- 连接Idle一个小时后超时 -->
+		<property name="timeBetweenEvictionRunsMillis" value="3600000" />
+		<property name="minEvictableIdleTimeMillis" value="3600000" />
+	</bean>
+</beans>
