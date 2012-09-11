@@ -12,7 +12,7 @@ public class JdbcMySqlTest {
 
 	public static void main(String[] args) {
 		try {
-			Class<?> c = Class.forName(PropertiesUtils.getProperty("jdbc.driver", null));
+			Class.forName(PropertiesUtils.getProperty("jdbc.driver"));
 			Connection con = DriverManager.getConnection(PropertiesUtils.getProperty("jdbc.url"), PropertiesUtils.getProperty("jdbc.username"), PropertiesUtils.getProperty("jdbc.password"));
 			Statement st = con.createStatement();
 			ResultSet resultSet = st.executeQuery("select * from mppb_order where user_name='gezhonglunta' and ota_order_id is not null");
