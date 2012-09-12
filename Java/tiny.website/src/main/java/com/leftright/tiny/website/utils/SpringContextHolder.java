@@ -1,4 +1,4 @@
-package com.leftright.tiny.website;
+package com.leftright.tiny.website.utils;
 
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.context.ApplicationContext;

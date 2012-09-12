@@ -7,6 +7,13 @@
 	        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.1.xsd">
 
 	<context:component-scan base-package="com.leftright.tiny.website" />
+	<bean id="propertyConfigurer" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+		<property name="locations">
+			<list>
+				<value>classpath:resources/*.properties</value>
+			</list>
+		</property>
+	</bean>
 	<!-- 以静态变量保存ApplicationContext -->
 	<bean class="com.leftright.tiny.website.SpringContextHolder" lazy-init="false" />
 	<bean id="accessDB" class="org.apache.commons.dbcp.BasicDataSource">

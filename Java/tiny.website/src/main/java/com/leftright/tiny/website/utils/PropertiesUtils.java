@@ -1,4 +1,4 @@
-package com.leftright.tiny.website;
+package com.leftright.tiny.website.utils;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -8,12 +8,13 @@ import java.util.Properties;
 import org.apache.log4j.Logger;
 
 public class PropertiesUtils {
-	private static Properties property = null;
-	private static final Logger log = Logger.getLogger(PropertiesUtils.class);
-	static {
+	private Properties property = null;
+	private final Logger log = Logger.getLogger(PropertiesUtils.class);
+
+	public PropertiesUtils() {
 		InputStream stream = null;
 		try {
-			stream = PropertiesUtils.class.getClassLoader().getResourceAsStream("application.properties");
+			stream = PropertiesUtils.class.getClassLoader().getResourceAsStream(getPropertyFiles());
 			property = new Properties();
 			property.load(stream);
 		} catch (FileNotFoundException e) {
@@ -31,11 +32,15 @@ public class PropertiesUtils {
 		}
 	}
 
-	public static String getProperty(String key) {
+	public String getPropertyFiles() {
+		return "application.properties";
+	}
+
+	public String getProperty(String key) {
 		return property.getProperty(key);
 	}
 
-	public static String getProperty(String key, String defaultValue) {
+	public String getProperty(String key, String defaultValue) {
 		return property.getProperty(key, defaultValue);
 	}
 }
