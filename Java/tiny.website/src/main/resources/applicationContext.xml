@@ -7,15 +7,16 @@
 	        http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context-3.1.xsd">
 
 	<context:component-scan base-package="com.leftright.tiny.website" />
-	<bean id="propertyConfigurer" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
+	<!-- <bean class="com.leftright.tiny.website.utils.applicationListener.TestListener" /> 可以用@Component来注册组件-->
+	<!-- <bean id="propertyConfigurer" class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer">
 		<property name="locations">
 			<list>
 				<value>classpath:resources/*.properties</value>
 			</list>
 		</property>
-	</bean>
+	</bean> -->
 	<!-- 以静态变量保存ApplicationContext -->
-	<bean class="com.leftright.tiny.website.SpringContextHolder" lazy-init="false" />
+	<bean class="com.leftright.tiny.website.utils.SpringContextHolder" lazy-init="false" />
 	<bean id="accessDB" class="org.apache.commons.dbcp.BasicDataSource">
 		<property name="driverClassName" value="sun.jdbc.odbc.JdbcOdbcDriver"></property>
 		<property name="url" value="jdbc:odbc:driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=db.accdb"></property>

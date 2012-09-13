@@ -5,8 +5,14 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.context.ApplicationContextAware;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
+import com.leftright.tiny.website.utils.applicationListener.TestEvent;
+
 public class SpringContextHolder implements ApplicationContextAware, DisposableBean {
-	private static ApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
+	private static ApplicationContext applicationContext;
+	static {
+		applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
+		applicationContext.publishEvent(new TestEvent(applicationContext));
+	}
 
 	/**
 	 * 取得存储在静态变量中的ApplicationContext.
