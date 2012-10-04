@@ -11,7 +11,7 @@
 </head>
 <body>
 	<f:view>
-
+		<p>主页</p>
 	</f:view>
 </body>
 </html>
